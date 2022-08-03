@@ -14,8 +14,8 @@
 ### <img width="1128" alt="2022-08-02 (1)" src="https://user-images.githubusercontent.com/104933717/182495882-eea27646-511c-4d86-834d-8c91d940c251.png">
 ### <img width="1128" alt="2022-08-02" src="https://user-images.githubusercontent.com/104933717/182495898-cf5875dc-2adb-495a-a3b2-a12c4dc4fd67.png">
 ## Video Link
-### https://drive.google.com/file/d/1i8ZxiCuMN6PplqNpnKHwhYBecxPhZqXR/view
+### https://drive.google.com/file/d/1CC-A2B48_4Ck-8fmERJVC5WDZ-kVmRl9/view
 ## Status 
-### e-Commerce is working sucessfully on rendering data for all categories, products, and tags (GET). Unfortunetly, running POST, PUT, and DELETE commands are not functioning correctly and need to be addressed in future work.
+### e-Commerce is working sucessfully on rendering data for all categories, products, and tags (GET). Unfortunetly, running POST, PUT, and DELETE commands are not functioning correctly for all category, products, and tags, with only tags and category working slightly and products not working at all. This needs to be addressed in future work.
 ## Credits/Sources 
 ### Tutoring, WW3 Schools, TA's, Stack Overflow, Slack AskBot
